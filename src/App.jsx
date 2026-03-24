@@ -76,7 +76,7 @@ function App() {
               <img src="/logo.jpg" alt="Puramagia Logo" className="h-32 w-32 md:h-48 md:w-48 drop-shadow-[0_0_15px_rgba(235,178,255,0.4)] object-cover" style={{ borderRadius: '50%' }} />
             </div>
             <h1 className="font-headline text-5xl md:text-7xl lg:text-8xl text-secondary mb-6 tracking-tight">
-              Despierta tu <span className="text-primary italic">Pura Magia</span>
+              Despierta tu <span className="text-primary italic">Propia Magia</span>
             </h1>
             <p className="font-body text-lg md:text-xl text-on-surface-variant max-w-2xl mx-auto mb-10 leading-relaxed font-light">
               Explora el santuario digital donde la sabiduría ancestral y el lujo contemporáneo se encuentran para elevar tu espíritu.
